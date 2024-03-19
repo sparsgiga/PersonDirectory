@@ -1,0 +1,12 @@
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\bin\Debug\net8.0\PersonDirectory.Common.deps.json
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\bin\Debug\net8.0\PersonDirectory.Common.dll
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\bin\Debug\net8.0\PersonDirectory.Common.pdb
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.csproj.AssemblyReference.cache
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.AssemblyInfoInputs.cache
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.AssemblyInfo.cs
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.csproj.CoreCompileInputs.cache
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.dll
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\refint\PersonDirectory.Common.dll
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\PersonDirectory.Common.pdb
+C:\TBC_Task\PersonDirectory\PersonDirectory.Common\obj\Debug\net8.0\ref\PersonDirectory.Common.dll

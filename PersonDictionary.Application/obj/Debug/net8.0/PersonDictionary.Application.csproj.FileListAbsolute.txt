@@ -1,0 +1,12 @@
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\bin\Debug\net8.0\PersonDictionary.Application.deps.json
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\bin\Debug\net8.0\PersonDictionary.Application.dll
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\bin\Debug\net8.0\PersonDictionary.Application.pdb
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.csproj.AssemblyReference.cache
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.AssemblyInfoInputs.cache
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.AssemblyInfo.cs
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.csproj.CoreCompileInputs.cache
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.dll
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\refint\PersonDictionary.Application.dll
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\PersonDictionary.Application.pdb
+C:\TBC_Task\PersonDirectory\PersonDictionary.Application\obj\Debug\net8.0\ref\PersonDictionary.Application.dll
